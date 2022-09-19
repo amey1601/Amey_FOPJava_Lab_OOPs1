@@ -2,6 +2,9 @@
 
 I have uploaded my LAB1 project with the following structure :
 
+GL-ASSESMENTS/Amey_FOPJava_LabOOPs1/LAB_ASSIGNMENT_OOPS/src
+
+
 src:
 
 model package - employee class.
